@@ -2,7 +2,7 @@
 <div class="sidebar_container">
     <div class="sidebar">
       <h2>Пошук</h2>
-      <Search /> <!-- Використання компонента Search -->
+      <Search /> 
     </div>
       <div class="sidebar">
         <h2>Новини</h2>
@@ -43,6 +43,5 @@ export default {
   </script>
   
   <style scoped>
-  /* ваші стилі для Sidebar.vue */
   </style>
   
