@@ -100,7 +100,7 @@
     list-style: none;
     background-color: #254e32;
     position: absolute;
-    top: 60px; /* Задаємо відступ від верхнього краю header */
+    top: 60px;
     left: 0;
     width: 100%;
     box-sizing: border-box;
